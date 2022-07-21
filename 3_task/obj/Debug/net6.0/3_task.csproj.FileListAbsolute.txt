@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\homework7\tasks\3_task\bin\Debug\net6.0\3_task.exe
+C:\Users\DNS\Desktop\homework7\tasks\3_task\bin\Debug\net6.0\3_task.deps.json
+C:\Users\DNS\Desktop\homework7\tasks\3_task\bin\Debug\net6.0\3_task.runtimeconfig.json
+C:\Users\DNS\Desktop\homework7\tasks\3_task\bin\Debug\net6.0\3_task.dll
+C:\Users\DNS\Desktop\homework7\tasks\3_task\bin\Debug\net6.0\3_task.pdb
+C:\Users\DNS\Desktop\homework7\tasks\3_task\obj\Debug\net6.0\3_task.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\homework7\tasks\3_task\obj\Debug\net6.0\3_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\homework7\tasks\3_task\obj\Debug\net6.0\3_task.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\homework7\tasks\3_task\obj\Debug\net6.0\3_task.AssemblyInfo.cs
+C:\Users\DNS\Desktop\homework7\tasks\3_task\obj\Debug\net6.0\3_task.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\homework7\tasks\3_task\obj\Debug\net6.0\3_task.dll
+C:\Users\DNS\Desktop\homework7\tasks\3_task\obj\Debug\net6.0\refint\3_task.dll
+C:\Users\DNS\Desktop\homework7\tasks\3_task\obj\Debug\net6.0\3_task.pdb
+C:\Users\DNS\Desktop\homework7\tasks\3_task\obj\Debug\net6.0\3_task.genruntimeconfig.cache
+C:\Users\DNS\Desktop\homework7\tasks\3_task\obj\Debug\net6.0\ref\3_task.dll
